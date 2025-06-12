@@ -1,0 +1,11 @@
+{
+  "securityDomain": "",
+  "rules": [
+    {
+      "principal": "<mspid>",
+      "principalType": "ca",
+      "resource": "mychannel:crm:Check:*",
+      "read": true
+    }
+  ]
+}

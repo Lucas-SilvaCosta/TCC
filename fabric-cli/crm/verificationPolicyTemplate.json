@@ -1,0 +1,12 @@
+{
+    "securityDomain": "<network-id>",
+    "identifiers": [
+      {
+        "pattern": "mychannel:crm:Check:*",
+        "policy": {
+          "type": "Signature",
+          "criteria": []
+        }
+      }
+    ]
+}
