@@ -1,0 +1,8 @@
+{
+  "prescription": {
+    "Check": {
+      "args": ["1", ""],
+      "replaceIndices": [1]
+    }
+  }
+}
